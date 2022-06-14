@@ -1,0 +1,59 @@
+body{
+ 
+    background: linear-gradient(201deg, rgba(0,219,222,1) 24%, rgba(252,0,255,1) 100%);
+}
+.tab_one{
+    background:white;
+    float:none;
+    border-radius:15px;
+margin-left:170px;
+ margin-right:170px;
+ height: 100px;
+
+}
+
+.tab_two{
+    background:white;
+    float:none;
+    border-radius:15px;
+    margin-left:170px;
+ margin-right:170px;
+ height: 100px; 
+}
+#player1L , #player2L
+{
+	display: inline-block;
+	margin-right: 20px;
+}
+
+#player1_name, #player2_name{
+color:black;
+height:20px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #ea82f3;
+padding: 20px;
+width:190px;
+margin-right: 100px;
+margin-left: 100px;
+float: none;
+text-align: left;
+
+}
+#Guess{
+    background: linear-gradient( 64.3deg,  rgba(254,122,152,0.81) 17.7%, rgba(255,206,134,1) 64.7%, rgba(172,253,163,0.64) 112.1% );
+}
+#SYW{
+    font-family: 'Inspiration', cursive;
+    font-size: 30px;
+}
+.btn-primary{
+    border-radius: 22px;
+    border-color: chartreuse;
+    color: darkviolet;
+}
